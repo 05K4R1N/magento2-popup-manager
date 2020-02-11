@@ -1,7 +1,5 @@
 # Popup Manager
 
-# Don't use this module in live sites
-
-# Coming Soon...
+# This Pop Up will be checked and tested just in experimental cases for Magento
 
 In Development...
